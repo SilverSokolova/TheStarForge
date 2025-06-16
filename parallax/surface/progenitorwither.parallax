@@ -60,46 +60,46 @@
       "parallax" : [3, 2.4]
     },
     {
-      "kind" : "grass4",
+      "kind" : "progenitorwither4",
       "offset" : [0, 50],
       "parallax" : [4, 2.8]
     },
     {
-      "kind" : "grassrare",
+      "kind" : "progenitorrare",
       "baseCount" : 4,
       "offset" : [0, 50],
       "parallax" : [4.5, 3]
     },
     {
-      "kind" : "gardentrees2",
+      "kind" : "progenitortrees2",
       "offset" : [0, 30],
       "parallax" : [4.51, 3.2],
       "fadePercent" : 0.1
     },
     {
-      "kind" : "grass5",
+      "kind" : "progenitorwither5",
       "offset" : [0, 50],
       "parallax" : [5, 3.4]
     },
     {
-      "kind" : "grass6",
+      "kind" : "progenitorwither6",
       "offset" : [0, 50],
       "parallax" : [6, 3.6]
     },
     {
-      "kind" : "grass7",
+      "kind" : "progenitorwither7",
       "offset" : [0, 50],
       "parallax" : [7, 3.8],
       "fadePercent" : 0.1
     },
     {
-      "kind" : "grass8",
+      "kind" : "progenitorwither8",
       "offset" : [0, 50],
       "parallax" : [8, 4],
       "fadePercent" : 0.12
     },
     {
-      "kind" : "grass9",
+      "kind" : "progenitorwither9",
       "baseCount" : 2,
       "offset" : [0, 41],
       "parallax" : [8, 4.2],

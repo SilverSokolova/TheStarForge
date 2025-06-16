@@ -144,7 +144,7 @@
   "subBlocks" : [ "starforge-blackrotmatter" ],
   "ores" : "surface",
 
-  "parallax" : "/parallax/surface/blackrot.parallax",
+  "parallax" : "/parallax/surface/progenitorwither.parallax",
 
   "ambientNoises" : {
     "day" : {
